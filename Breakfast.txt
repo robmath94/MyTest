@@ -2,3 +2,4 @@ Eggs
 Pancakes
 bacon
 Tea
+Coffee
